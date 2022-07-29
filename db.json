@@ -60,10 +60,50 @@
       "github": "https://github.com/fransachmadhw/login-app-react-firebase-clone"
    },
    {
-      "year": 2022,
+      "year": 2021,
       "title": "Dzaky Portfolio",
       "technology": "HTML, CSS, SCSS, Swiper.js",
       "github": "https://github.com/fransachmadhw/Dzaky_Portfolio",
       "live": "https://dzakydarrell.netlify.app/"
+   },
+   {
+      "year": 2021,
+      "title": "DreadOut 2 Website (Remake)",
+      "technology": "HTML, CSS, SCSS, JavaScript, Swiper.js, FreezeFrame",
+      "github": "https://github.com/fransachmadhw/DreadOut2_Website",
+      "live": "https://dreadout2unofficial.netlify.app/"
+   },
+   {
+      "year": 2021,
+      "title": "Franz Shelby Website V2",
+      "technology": "HTML, CSS, JavaScript, Swiper.js, ScrollReveal.js, FormSubmit Backend",
+      "github": "https://github.com/fransachmadhw/Franz-Shelby-2",
+      "live": "https://franz-shelby2.netlify.app/"
+   },
+   {
+      "year": 2021,
+      "title": "Franz Shelby Website V1",
+      "technology": "HTML, CSS, JavaScript, ScrollReveal.js, HaikeiApp, BlobMaker, FormSubmit Backend",
+      "github": "https://github.com/fransachmadhw/Franz-Shelby",
+      "live": "https://franz-shelby.netlify.app/"
+   },
+   {
+      "year": 2021,
+      "title": "Frans Gaming Low Website V1",
+      "technology": "HTML, CSS, HaikeiApp",
+      "github": "https://github.com/fransachmadhw/Frans-Gaming-Low-Website",
+      "live": "https://fransgaminglow.netlify.app/"
+   },
+   {
+      "year": 2021,
+      "title": "Kidspiration",
+      "technology": "Laravel, PHP, CSS",
+      "github": "https://github.com/fransachmadhw/Kidspiration-Website"
+   },
+      {
+      "year": 2021,
+      "title": "Java GUI Quiz Program",
+      "technology": "Java",
+      "github": "https://github.com/fransachmadhw/Quiz-Program"
    }
 ]
