@@ -22,8 +22,48 @@
    },
    {
       "year": 2022,
-      "title": "Test",
-      "technology": "Test",
-      "github": "test"
+      "title": "Random Number Generator",
+      "technology": "React, JavaScript, Tailwind CSS",
+      "github": "https://github.com/fransachmadhw/random-number-generator",
+      "live": "https://numberpicker.vercel.app/"
+   },
+   {
+      "year": 2022,
+      "title": "Tenzies",
+      "technology": "React, JavaScript",
+      "github": "https://github.com/fransachmadhw/Tenzies",
+      "live": "https://tenziesss.netlify.app/"
+   },
+   {
+      "year": 2022,
+      "title": "Simple Note App",
+      "technology": "React, JavaScript, Showdown",
+      "github": "https://github.com/fransachmadhw/Note-App-Simple"
+   },
+   {
+      "year": 2022,
+      "title": "Meme Generator",
+      "technology": "React, JavaScript, Imgflip",
+      "github": "https://github.com/fransachmadhw/Meme-Generator-React"
+   },
+   {
+      "year": 2022,
+      "title": "2048 Game (Customised)",
+      "technology": "HTML, CSS, JavaScript",
+      "github": "https://github.com/fransachmadhw/2048-custom",
+      "live": "https://2048custom.netlify.app/"
+   },
+   {
+      "year": 2022,
+      "title": "React Login App",
+      "technology": "React, Firebase, JavaScript",
+      "github": "https://github.com/fransachmadhw/login-app-react-firebase-clone"
+   },
+   {
+      "year": 2022,
+      "title": "Dzaky Portfolio",
+      "technology": "HTML, CSS, SCSS, Swiper.js",
+      "github": "https://github.com/fransachmadhw/Dzaky_Portfolio",
+      "live": "https://dzakydarrell.netlify.app/"
    }
 ]
