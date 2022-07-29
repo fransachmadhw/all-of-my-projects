@@ -2,28 +2,28 @@
   {
       "year": 2022,
       "title": "Personal Website V1",
-      "technology": ["Next.js", "React", "JavaScript", "Tailwind CSS"],
+      "technology": "Next.js, React, JavaScript, Tailwind CSS",
       "github": "https://github.com/fransachmadhw/v1",
       "live": "https://fransachmadhw.vercel.app/"
    },
    {
       "year": 2022,
       "title": "Next Ultimate Weather App",
-      "technology": ["Next.js", "OpenWeatherMap API", "React", "JavaScript", "Tailwind CSS"],
+      "technology": "Next.js, OpenWeatherMap API, React, JavaScript, Tailwind CSS",
       "github": "https://github.com/fransachmadhw/nextjs-weather-app-clone",
       "live": "https://nextjs-weather-app-sepia.vercel.app/"
    },
    {
       "year": 2022,
       "title": "React Portfolio 1",
-      "technology": ["React", "JavaScript", "Tailwind CSS"],
+      "technology": "React, JavaScript, Tailwind CSS",
       "github": "https://github.com/fransachmadhw/react-portfolio-1",
       "live": "https://frans-portfolio-1.vercel.app/"
    },
    {
       "year": 2022,
       "title": "Test",
-      "technology": ["React", "JavaScript", "Tailwind CSS"],
+      "technology": "Test",
       "github": "test"
    }
 ]
