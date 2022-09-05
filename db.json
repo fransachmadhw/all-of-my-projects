@@ -1,5 +1,12 @@
 [
-  {
+   {
+      "year": 2022,
+      "title": "Mobile NFT Marketplace (Front End)",
+      "technology": "React Native, Expo, React, JavaScript",
+      "github": "https://github.com/fransachmadhw/first-react-native-project",
+      "live": "https://expo.dev/@fransachmadhw/nft-marketplace?serviceType=classic&distribution=expo-go"
+   },
+   {
       "year": 2022,
       "title": "Personal Website V1",
       "technology": "Next.js, React, JavaScript, Tailwind CSS",
