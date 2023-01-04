@@ -1,6 +1,13 @@
 [
    {
       "year": 2022,
+      "title": "Peanut Guy",
+      "technology": "Unity Engine, C#",
+      "github": "https://github.com/fransachmadhw/unity-peanut-guy",
+      "live": "https://fransachmadhw.itch.io/peanutguy"
+   },
+   {
+      "year": 2022,
       "title": "Mobile NFT Marketplace (Front End)",
       "technology": "React Native, Expo, React, JavaScript",
       "github": "https://github.com/fransachmadhw/first-react-native-project",
