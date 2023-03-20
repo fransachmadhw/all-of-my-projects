@@ -1,5 +1,12 @@
 [
    {
+      "year": 2023,
+      "title": "Flutter UI - Lucely",
+      "technology": "Flutter, Dart",
+      "github": "https://github.com/fransachmadhw/flutter-ui-lucely",
+      "live": "https://youtu.be/STo25yzteO0"
+   },
+   {
       "year": 2022,
       "title": "Peanut Guy",
       "technology": "Unity Engine, C#",
