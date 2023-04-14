@@ -8,6 +8,13 @@
    },
    {
       "year": 2023,
+      "title": "Kidspiration V2",
+      "technology": "Next.js, JavaScript, Tailwind CSS, Markdown",
+      "github": "https://github.com/Giraken/Kidspiration",
+      "live": "https://kidspiration.vercel.app"
+   },
+   {
+      "year": 2023,
       "title": "Flutter UI - Lucely",
       "technology": "Flutter, Dart",
       "github": "https://github.com/fransachmadhw/flutter-ui-lucely",
