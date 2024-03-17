@@ -1,5 +1,33 @@
 [
    {
+      "year": 2024,
+      "title": "React Admin UI Dashboard",
+      "technology": "TypeScript, React.js, Tailwind CSS, Daisy UI, Material UI, Recharts, React Query",
+      "github": "https://github.com/fransachmadhw/react_admin_ui_v1",
+      "live": "https://react-admin-ui-v1.vercel.app/"
+   },
+   {
+      "year": 2023,
+      "title": "YOLOv8 Indonesian Sign Language Detection Streamlit",
+      "technology": "Python, Pytorch, YOLOv8",
+      "github": "https://github.com/fransachmadhw/yolov8-streamlit",
+      "live": "https://bisindo-yolov8.streamlit.app/"
+   },
+   {
+      "year": 2023,
+      "title": "Inagata Final Report",
+      "technology": "TypeScript, Next.js, GSAP, Tailwind CSS",
+      "github": "https://github.com/fransachmadhw/inagata-final-report",
+      "live": "https://inagata-final-report.vercel.app/"
+   },
+   {
+      "year": 2023,
+      "title": "Gambit Rojo Landing Page",
+      "technology": "HTML, CSS, JavaScript, Tailwind CSS, Flowbite, Tawk.to, Rellax",
+      "github": "https://github.com/fransachmadhw/Gambit/tree/main",
+      "live": "https://gambitrojo.com/"
+   },
+   {
       "year": 2023,
       "title": "Flutter UI - Real Estate",
       "technology": "Flutter, Dart",
